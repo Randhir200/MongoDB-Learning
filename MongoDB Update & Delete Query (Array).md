@@ -36,8 +36,8 @@ __Filter Criteria:__
     
 This approach keeps the existing elements in categories and appends the new element to the array.
 
-
-### To delete an element from an array in MongoDB, you can use the $pull operator, which removes all elements that match a specified condition. Here’s how to delete a specific element from the categories array in the expenseType collection:
+### To delete an element from an array in MongoDB
+To delete an element from an array in MongoDB, you can use the $pull operator, which removes all elements that match a specified condition. Here’s how to delete a specific element from the categories array in the expenseType collection:
 
 Assume you want to delete the category with name: "Friends".
 
